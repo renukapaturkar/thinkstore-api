@@ -1,2 +1,2 @@
-# thinkstore-api
-API server for Ecommerce App
+# elysian-api
+ API Server for ecommerece - elysian
